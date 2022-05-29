@@ -1,2 +1,2 @@
 # Admin
-i created this with codeigniter framework and admin2 sb template
+i created this with codeigniter framework and sbadmin2 template
