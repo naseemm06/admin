@@ -1,9 +1,14 @@
-        <!-- Begin Page Content -->
 
+ <div class="fill" style="background-image:url('<?=base_url('gambar/udn.jpg')?>'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+        <!-- Begin Page Content -->
+        <br>  
+        <div class='row'>
+            <h1 class='mx-auto text-white'>User</h1>
+        </div>
+        <br>
         <div class="container-fluid">      
             <div class="card mb-4 bg-gray-200">
                     <div class="card-header py-3 bg-gray-900">
-                        <h6 class="m-0 font-weight-bold text-white">Data user
                         <button type="button" class="btn btn-primary float-right" data-toggle="modal" data-target="#exampleModal">
                         Tambah data
                         </button>
@@ -140,3 +145,10 @@
             </div>
             <?php endforeach; ?>
             <!-- Modal akhir edit data-->
+                                    <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            </div>
+            

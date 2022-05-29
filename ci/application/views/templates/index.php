@@ -1,11 +1,32 @@
-<!-- Jumbotron -->
-<div
-  class="bg-image p-5 text-center shadow-1-strong rounded mb-5 text-white"
-  style="background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/003.webp');"
->
-<div class='row'>
+<div class="fill" style="background-image:url('<?=base_url('gambar/udn.jpg')?>'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+<div class='row text-white'>
   <h1 class='mx-auto'>Home</h1>
 </div>
-</div>
+<br>
 
+<div class='row text-white'>
+  <p class='mx-auto'>WEB Admin pengelola data</p>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
 
